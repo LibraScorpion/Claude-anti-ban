@@ -1,4 +1,4 @@
-# Claude-anti-ban
+# Claude-anti-ban Claude 账号100% 不封号
 为什么你的 Claude / Codex 账号频繁被封？可能你一开始就选错了“环境”，如何做到100%不封号，详细见下网站
 https://aiaccountenv.com/
 
@@ -17,3 +17,6 @@ https://aiaccountenv.com/
 网络、支付、认证一站式配齐。海外团队 1 对 1 专业支持，别再让劣质工具耽误你的开发进度。
 
 https://aiaccountenv.com/
+
+也可以添加下面微信
+<img width="406" height="405" alt="image" src="https://github.com/user-attachments/assets/19812d52-b0dc-4776-be09-d78327024346" />
